@@ -2,7 +2,7 @@ Hi 👋 I am Bhanu Partap
 =============================
 Front-end Developer
 -------------------
-I aM LeaRninG WeB DeveLoPMenT FrOm 1 YeAr , and My GoAl is tO BecOmE FuLL StACk DEvelOpeR.
+I aM LeaRninG WeB DeveLoPMenT FrOm 1.4 YeAr , and My GoAl is tO BecOmE FuLL StACk DEvelOpeR.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhanupartap25275@gmail.com](mailto:bhanupartap25275@gmail.com)
 * 🧠  I'm learning Full Stack Web Development
