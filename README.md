@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhanu Partap  
+Hi 👋 I am Bhanu Partap  
 =============================
 Front-end Developer
 -------------------
