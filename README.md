@@ -1,6 +1,6 @@
 Hi 👋 I am Bhanu Partap  
 =============================
-Front-end Developer and Blockchain Developer
+FrontEnd(ReactJS) and Blockchain(Ethereum) Developer
 -------------------
 I aM LeaRninG WeB DeveLoPMenT FrOm 1.4 YeAr , and My GoAl is tO BecOmE FuLL StACk DEvelOpeR.
 * 🌍  I'm based in India
