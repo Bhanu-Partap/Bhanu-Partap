@@ -2,10 +2,10 @@ Hi 👋 I am Bhanu Partap
 =============================
 FrontEnd(ReactJS) and Blockchain(Ethereum) Developer
 -------------------
-I aM LeaRninG WeB DeveLoPMenT FrOm 1.4 YeAr , and My GoAl is tO BecOmE FuLL StACk DEvelOpeR.
+I aM LeaRninG WeB DeveLoPMenT FrOm 1.8 YeAr, and joined Debut Infotech PVT. LTD. in feb 2023 as traine Blockchian Developer , and My GoAl is tO BecOmE FuLL StACk BloCkchAiN DEvelOpeR wiTh rEacTJS.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhanupartap25275@gmail.com](mailto:bhanupartap25275@gmail.com)
-* 🧠  I'm learning Full Stack Web Development
+* 🧠  I'm learning BloCkchAin anD ReacTJS.
 * 🤝  I'm open to collaborating on Front-end developing
 * ⚡  I Like to play PC games.
 
