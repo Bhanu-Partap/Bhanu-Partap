@@ -6,7 +6,7 @@ I aM LeaRninG WeB DeveLoPMenT FrOm 1.8 YeAr, and leArning Blockchian, sMart Cont
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhanupartap25275@gmail.com](mailto:bhanupartap25275@gmail.com)
 * 🧠  I'm learning BloCkchAin.
-* 🤝  I'm open to collaborating on Front-end developing
+* 🤝  I'm open to collaborating on Blockchain Development.
 * ⚡  I Like to play PC games.
 
 
@@ -18,8 +18,8 @@ I aM LeaRninG WeB DeveLoPMenT FrOm 1.8 YeAr, and leArning Blockchian, sMart Cont
 <a href="https://www.buymeacoffee.com/bhanupartap"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-### Socials
-<p align="left"> <a href="https://www.dribbble.com/BP25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Bhanu-Partap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bhanupartaps25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhanu-partap-785a6b1b5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bhanupartaps25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu-partap25/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bhanupartap25275) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22281838/bhanu-partap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@nitro5gaming) 
 
 ### Badges
 
