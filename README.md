@@ -23,13 +23,11 @@ I aM LeaRninG WeB DeveLoPMenT FrOm 1.8 YeAr, and leArning Blockchian, sMart Cont
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bhanu-Partap&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Partap&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Partap&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/Bhanu-Partap"><img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Partap&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bhanu-Partap's GitHub stats" /></a>
-
-<a href="http://www.github.com/Bhanu-Partap"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Partap&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!-- <a href="http://www.github.com/Bhanu-Partap"><img src="https://activity-graph.herokuapp.com/graph?username=Bhanu-Partap&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a> -->
-
-<a href="https://github.com/Bhanu-Partap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Partap&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
