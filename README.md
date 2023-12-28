@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi 👋 I am Bhanu Partap  
+=============================
+# FrontEnd(ReactJS) and Blockchain(Ethereum) Developer
 I am currently working on ERC-3646.<br>I am looking to collaborate on Blockchain and Frontend development.<br>I am currently learning the ReactJS and new things in Blockchain like Gasless Transaction etc.<br>I like to play PC games and love to sing.
 
 
